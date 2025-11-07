@@ -3,11 +3,8 @@ Project Proposal
 
 ## Group Members
 
-- William M. Donovan (wd2328)
-- Hantang Qin (hq2229)
-- Yongyan Liu (yl6107)
-- Yijun Wang (yw4664)
-- Heng Hu (hh2648)
+William M. Donovan (wd2328), Hantang Qin (hq2229), Yongyan Liu (yl6107),
+Yijun Wang (yw4664), Heng Hu (hh2648)
 
 ## Tentative Project Title
 
